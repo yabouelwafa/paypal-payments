@@ -1,4 +1,4 @@
-# PaPpal Payments
+# PayPpal Payments
 
 Add PayPal payment buttons to your Application.
 
